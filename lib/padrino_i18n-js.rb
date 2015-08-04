@@ -19,5 +19,4 @@ module I18n
   end
 end
 
-
 require 'i18n-js'
